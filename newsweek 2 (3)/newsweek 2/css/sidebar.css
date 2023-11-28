@@ -1,0 +1,23 @@
+#side-bar ul {
+    list-style: square;
+    list-style-position: inside;
+    color: gray;
+    padding-left: 30px;
+    text-align: relative;
+    text-color: red;
+}
+
+li {
+    color: red
+    
+
+}
+h3 {
+    color: red;
+}
+a {
+    color: black
+}
+.article-3 {
+    background: lightskyblue;
+}
